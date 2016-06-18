@@ -1,6 +1,6 @@
 METHOD CRUD GENERATE
 
-****https://gilacoding.com/read/membuat-crud-laravel-hanya-dengan-5-menit****
+****gilacodingdotcom/read/membuat-crud-laravel-hanya-dengan-5-menit****
 
 # Laravel PHP Framework
 
