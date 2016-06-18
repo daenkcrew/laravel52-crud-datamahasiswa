@@ -1,3 +1,7 @@
+METHOD CRUD GENERATE
+
+****https://gilacoding*com/read/membuat-crud-laravel-hanya-dengan-5-menit
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
